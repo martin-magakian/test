@@ -1,1 +1,1 @@
-test_from_master
+test_from_master_and_postgres
