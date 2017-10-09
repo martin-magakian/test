@@ -1,1 +1,1 @@
-I send email !
+I send email (check is email address) !
